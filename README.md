@@ -1,7 +1,7 @@
 <h1>Challenge Data</h1>
 
 <h2>Description</h2>
-This project is part of a challenge organized by my school (IMT Nord Europe), concerning the problem of text analysis using the NLP technique and aiming to create a multilabel Classification model
+The challenge consists in a text analysis problem using NLP techniques. A large number of responses were collected from a survey of the population concerning their mental state during the COVID crisis. The aim of this challenge is then to create a Multilable Classification Model.
 <br />
 
 <h2>Languages and Utilities Used</h2>
